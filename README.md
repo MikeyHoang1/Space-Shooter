@@ -1,2 +1,4 @@
-# Space-Shooter
-A space shooter built with python &amp; pygame
+# Space Shooter
+
+## Description
+A space shooter built with python and pygame
